@@ -1,0 +1,2 @@
+# Paste your Google WEB client ID on the next line (it ends with .apps.googleusercontent.com).
+# Lines starting with # are ignored. Leave it empty to type the ID inside the app instead.

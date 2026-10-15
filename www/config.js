@@ -1,0 +1,1 @@
+window.WT_CONFIG={"gid":""};
